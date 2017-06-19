@@ -6,7 +6,7 @@
 //  - probably many more
 
 #include <math.h>
-#include <memory.h>
+// #include <memory.h>
 #include "sid.h"
 //#include "Tedmem.h"
 
